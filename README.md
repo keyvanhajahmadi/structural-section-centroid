@@ -1,6 +1,9 @@
 # structural-section-centroid
 Python tool for calculating the centroid of composite sections used in civil and structural engineering.
 # 🏗️ Structural Section Centroid Calculator
+- **Graphical User Interface (GUI):** Built with Tkinter for a user-friendly experience.
+- **Advanced Computation:** Utilizes SciPy for high-performance engineering calculations.
+
 
 ![Structural Engineering Banner](./banner.png)
 
@@ -31,10 +34,10 @@ Where $A_i$ is the area of each individual shape and $(x_i, y_i)$ are the coordi
 
 ## 💻 Installation & Usage
 
-1. **Clone the repository:**
+1. Clone the repo...
+2. Install dependencies:
 ```bash
-   git clone https://github.com/keyvanhajahmadi/structural-section-centroid.git
-```
+   pip install -r requirements.txt
 
 ---
 ## 📖 How to Use
